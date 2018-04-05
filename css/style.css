@@ -23,7 +23,7 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("images\the-flatiron-building.png");
+  background-image: url("images/the-flatiron-building.png");
 }
 
 p {
@@ -31,7 +31,7 @@ p {
   font-size: 14px;
 }
 #header{
-  background-image: url("images\the-flatiron-building.png");
+  background-image: url("images/the-flatiron-building.png");
 }
 
 #navigation {
@@ -41,6 +41,7 @@ p {
 }
 #footer {
   font-family: Helvetica;
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
